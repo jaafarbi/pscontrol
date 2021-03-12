@@ -1,0 +1,2 @@
+REM C:\Users\jbiyadi\AppData\Local\Programs\Python\Python38-32\Scripts\pyinstaller.exe --onefile --icon=icon.ico --noconsole main.py
+C:\Users\jbiyadi\AppData\Local\Programs\Python\Python38-32\Scripts\cxfreeze.exe -c --icon=icon.ico main.py --target-name=PSControl --include-files=icon.ico
